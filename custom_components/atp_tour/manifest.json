@@ -1,0 +1,13 @@
+{
+    "domain": "atp_tour",
+    "name": "ATP Tour Tennis",
+    "version": "1.0.0",
+    "documentation": "https://github.com/SoFarSoGood86/ha-atp-tour",
+    "issue_tracker": "https://github.com/SoFarSoGood86/ha-atp-tour/issues",
+    "dependencies": [],
+    "codeowners": [
+        "@SoFarSoGood86"
+    ],
+    "iot_class": "cloud_polling",
+    "requirements": []
+}

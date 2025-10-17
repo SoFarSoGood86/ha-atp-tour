@@ -1,0 +1,11 @@
+{
+    "title": "ATP Tour Tennis",
+    "config": {
+        "step": {
+            "user": {
+                "title": "Suivi du championnat ATP",
+                "description": "Cette int\u00e9gration affiche le classement et les tournois ATP."
+            }
+        }
+    }
+}
